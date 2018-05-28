@@ -4,7 +4,7 @@
    * [Survey](#survey)
    * [ChatBot](#chatbot)
    * [Machine-Translation](#machine-translation)
-   * [Model](#model)
+   * [GAN](#gan)
 
 
 ## Survey
@@ -15,14 +15,12 @@ Chen, H., Liu, X., Yin, D., & Tang, J. (2017). A Survey on Dialogue Systems: Rec
 * [Recent Trends in Deep Learning Based Natural Language Processing](https://arxiv.org/abs/1708.02709), Young, T., Hazarika, D., Poria, S., & Cambria, E. (2017). Recent trends in deep learning based natural language processing. arXiv preprint arXiv:1708.02709.
   * Survey Paper of DL based NLP
 
-
 ## Chat Bot
 ### General
 * [A Neural Conversational Model](https://arxiv.org/abs/1506.05869), Vinyals, O., & Le, Q. (2015). A neural conversational model. arXiv preprint arXiv:1506.05869.
 
 * [Can Machines Talk? Comparison of Eliza with Modern Dialogue Systems](https://www.sciencedirect.com/science/article/pii/S0747563216300048), Shah, H., Warwick, K., Vallverdú, J., & Wu, D. (2016). Can machines talk? Comparison of Eliza with modern dialogue systems. Computers in Human Behavior, 58, 278-295.
 ISO 690	
-
 
 ### Reinforcement and Adversarial
 * [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/abs/1606.01541), Li, J., Monroe, W., Ritter, A., Galley, M., Gao, J., & Jurafsky, D. (2016). Deep reinforcement learning for dialogue generation. arXiv preprint arXiv:1606.01541.
@@ -49,3 +47,4 @@ ISO 690
 ## GAN
 * [Generative Adversarial Nets](http://papers.nips.cc/paper/5423-generative-adversarial-nets), Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Bengio, Y. (2014). Generative adversarial nets. In Advances in neural information processing systems (pp. 2672-2680).
 
+* [Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/abs/1701.06547), Li, J., Monroe, W., Shi, T., Jean, S., Ritter, A., & Jurafsky, D. (2017). Adversarial learning for neural dialogue generation. arXiv preprint arXiv:1701.06547.
