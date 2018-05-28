@@ -2,7 +2,7 @@
 
 # Bookmarks
    * [Survey](#survey)
-   * [ChatBot](#chatbot)
+   * [ChatBot](#chat-bot)
    * [Machine-Translation](#machine-translation)
    * [GAN](#gan)
 
