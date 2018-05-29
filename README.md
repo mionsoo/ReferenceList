@@ -13,7 +13,7 @@ Chen, H., Liu, X., Yin, D., & Tang, J. (2017). A Survey on Dialogue Systems: Rec
   * Dialogue System Survey Paper
 
 * [Recent Trends in Deep Learning Based Natural Language Processing](https://arxiv.org/abs/1708.02709), Young, T., Hazarika, D., Poria, S., & Cambria, E. (2017). Recent trends in deep learning based natural language processing. arXiv preprint arXiv:1708.02709.
-  * Survey Paper of DL based NLP
+  * Survey Paper of NLP Tasks based on DL
 
 ## Chat Bot
 ### General
