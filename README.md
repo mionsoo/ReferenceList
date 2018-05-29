@@ -20,7 +20,9 @@ Chen, H., Liu, X., Yin, D., & Tang, J. (2017). A Survey on Dialogue Systems: Rec
 * [A Neural Conversational Model](https://arxiv.org/abs/1506.05869), Vinyals, O., & Le, Q. (2015). A neural conversational model. arXiv preprint arXiv:1506.05869.
 
 * [Can Machines Talk? Comparison of Eliza with Modern Dialogue Systems](https://www.sciencedirect.com/science/article/pii/S0747563216300048), Shah, H., Warwick, K., Vallverdú, J., & Wu, D. (2016). Can machines talk? Comparison of Eliza with modern dialogue systems. Computers in Human Behavior, 58, 278-295.
-ISO 690	
+ISO 690
+
+* [Marrying up Regular Expressions with Neural Networks: A Case Study for Spoken Language Understanding](https://arxiv.org/abs/1805.05588),Luo, B., Feng, Y., Wang, Z., Huang, S., Yan, R., & Zhao, D. (2018). Marrying up Regular Expressions with Neural Networks: A Case Study for Spoken Language Understanding. arXiv preprint arXiv:1805.05588.	
 
 ### Reinforcement and Adversarial
 * [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/abs/1606.01541), Li, J., Monroe, W., Ritter, A., Galley, M., Gao, J., & Jurafsky, D. (2016). Deep reinforcement learning for dialogue generation. arXiv preprint arXiv:1606.01541.
