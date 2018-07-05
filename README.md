@@ -5,7 +5,7 @@
    * [ChatBot](#chat-bot)
    * [Machine-Translation](#machine-translation)
    * [GAN](#gan)
-
+   * [Machine-Learning](#ml)
 
 ## Survey
 * [A Survey on Dialogue Systems: Recent Advances and New Frontiers](https://arxiv.org/abs/1711.01731), 
@@ -50,3 +50,9 @@ ISO 690
 * [Generative Adversarial Nets](http://papers.nips.cc/paper/5423-generative-adversarial-nets), Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Bengio, Y. (2014). Generative adversarial nets. In Advances in neural information processing systems (pp. 2672-2680).
 
 * [Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/abs/1701.06547), Li, J., Monroe, W., Shi, T., Jean, S., Ritter, A., & Jurafsky, D. (2017). Adversarial learning for neural dialogue generation. arXiv preprint arXiv:1701.06547.
+
+## Machine-Learning
+* [Growing Story Forest Online from Massive Breaking News](http://delivery.acm.org/10.1145/3140000/3132852/p777-liu.pdf?ip=203.253.21.124&id=3132852&acc=ACTIVE%20SERVICE&key=0EC22F8658578FE1%2EB348CB8067123FAC%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1530801056_34e2dee8095792cbdaf2f23ade5c2b31), Liu, B., Niu, D., Lai, K., Kong, L., & Xu, Y. (2017, November). Growing Story Forest Online from Massive Breaking News. In Proceedings of the 2017 ACM on Conference on Information and Knowledge Management (pp. 777-785). ACM.
+  * Descibe experience of implementing a News Content Organization System at Tencent (Story Forest).
+    Use Keyword Graph and Document Graph to cluster Events and Stories.
+  * Keyword - Infomation Retrieval, Text Clustering, Online Story Tree
