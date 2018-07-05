@@ -5,7 +5,7 @@
    * [ChatBot](#chat-bot)
    * [Machine-Translation](#machine-translation)
    * [GAN](#gan)
-   * [Machine-Learning](#ml)
+   * [Machine-Learning](#machine-learing)
 
 ## Survey
 * [A Survey on Dialogue Systems: Recent Advances and New Frontiers](https://arxiv.org/abs/1711.01731), 
